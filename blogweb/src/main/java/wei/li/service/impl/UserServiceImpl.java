@@ -1,11 +1,12 @@
-package wang.dreamland.www.service.impl;
+package wei.li.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import wang.dreamland.www.dao.UserMapper;
-import wang.dreamland.www.entity.User;
-import wang.dreamland.www.service.UserService;
+import wei.li.dao.UserMapper;
+import wei.li.entity.User;
+import wei.li.service.UserService;
+
 
 /**
  * Created by wly on 2017/12/15.
@@ -18,7 +19,7 @@ public class UserServiceImpl implements UserService {
     @Transactional
     public int regist(User user) {
         int i = userMapper.insert(user);
-        i = i / 0;
+
         return i;
     }
 

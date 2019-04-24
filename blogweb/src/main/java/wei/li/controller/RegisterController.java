@@ -1,13 +1,7 @@
-package com.liwei.blog.controller;
+package wei.li.controller;
 
-import com.liwei.blog.common.CodeCaptchaServlet;
-import com.liwei.blog.common.MD5Util;
-import com.liwei.blog.mail.SendEmail;
-import com.liwei.blog.pojo.User;
-import com.liwei.blog.service.RoleUserService;
-import com.liwei.blog.service.UserService;
+
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.data.redis.core.RedisTemplate;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -17,6 +11,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
+import wei.li.common.MD5Util;
+import wei.li.entity.User;
+import wei.li.service.UserService;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -34,12 +31,12 @@ public class RegisterController {
     /*注入userservice就是创建他。*/
     @Autowired
     private UserService userService;
-    @Autowired// redis数据库操作模板
-    private RedisTemplate<String, String> redisTemplate;
-    @Autowired
-    private RoleUserService roleUserService;
+  //  @Autowired// redis数据库操作模板
+//    private RedisTemplate<String, String> redisTemplate;
+  //  @Autowired
+ //   private RoleUserService roleUserService;
 
-    @RequestMapping("/doRegister")
+ /*   @RequestMapping("/doRegister")
     public String doRegister(Model model, @RequestParam(value = "email", required = false) String email,
                                           @RequestParam(value = "password", required = false) String password,
                                           @RequestParam(value = "phone", required = false) String phone,
@@ -87,7 +84,7 @@ public class RegisterController {
 
         }
 
-    }
+    }*/
 
 
 
@@ -97,7 +94,7 @@ public class RegisterController {
     public Map<String, Object> checkPhone(Model model, @RequestParam(value = "phone", required = false) String phone) {
         log.debug("注册-判断手机号" + phone + "是否可用");
         Map map = new HashMap<String, Object>();
-        User user = userService.findUserByMobile(phone);
+        User user = userService.findByPhone(phone);
         if (user == null) {
             //未注册
             map.put("message", "success");
@@ -109,12 +106,12 @@ public class RegisterController {
         return map;
     }
 
-    @RequestMapping("/checkCode")
+/*    @RequestMapping("/checkCode")
     @ResponseBody
     public Map<String,Object> checkCode(Model model, @RequestParam(value = "code", required = false) String code) {
         log.debug("注册-判断验证码" + code + "是否可用");
         Map map = new HashMap<String, Object>();
-        /*获取当前的seeion信息*/
+        *//*获取当前的seeion信息*//*
         ServletRequestAttributes attrs = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
         String vcode = (String) attrs.getRequest().getSession().getAttribute(CodeCaptchaServlet.VERCODE_KEY);
 
@@ -127,10 +124,10 @@ public class RegisterController {
         }
 
         return map;
-    }
+    }*/
 
 
-    @RequestMapping("/checkEmail")
+  /*  @RequestMapping("/checkEmail")
     @ResponseBody
     public Map<String, Object> checkEmail(Model model, @RequestParam(value = "email", required = false) String email) {
         log.debug("注册-判断邮箱" + email + "是否可用");
@@ -161,11 +158,11 @@ public class RegisterController {
         return 1;
     }
 
-    /**
+    *//**
      *
      * @param model
      * @return 重新发送邮件
-     */
+     *//*
     @RequestMapping("/sendEmail")
     @ResponseBody
     public  Map<String,Object> sendEmail(Model model) {
@@ -219,6 +216,6 @@ public class RegisterController {
             return "/regist/activeFail";
         }
 
-    }
+    }*/
 
 }

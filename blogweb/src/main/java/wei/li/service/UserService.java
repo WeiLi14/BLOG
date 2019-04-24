@@ -1,6 +1,7 @@
-package wang.dreamland.www.service;
+package wei.li.service;
 
-import wang.dreamland.www.entity.User;
+
+import wei.li.entity.User;
 
 /**
  * Created by 12903 on 2018/4/16.
@@ -19,7 +20,7 @@ public interface UserService {
      * @param password
      * @return
      */
-    User login(String email,String password);
+    User login(String email, String password);
 
     /**
      * 根据用户邮箱查询用户

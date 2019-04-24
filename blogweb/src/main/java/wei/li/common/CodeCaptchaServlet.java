@@ -3,7 +3,7 @@
  * All rights reserved.
  * ShangHai Dshine - http://www.dshine.com
  */
-package com.liwei.blog.common;
+package wei.li.common;
 
 import javax.imageio.ImageIO;
 import javax.servlet.ServletException;

@@ -1,4 +1,4 @@
-package wang.dreamland.www.entity;
+package wei.li.entity;
 
 public class User {
     private Long id;

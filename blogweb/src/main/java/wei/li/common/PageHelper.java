@@ -1,4 +1,4 @@
-package wang.dreamland.www.common;
+package wei.li.common;
 
 import org.apache.ibatis.executor.parameter.ParameterHandler;
 import org.apache.ibatis.executor.resultset.ResultSetHandler;
