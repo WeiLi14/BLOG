@@ -2,485 +2,532 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e2c077-aef8-4d2a-9e2a-d9134ad44fa6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/header-img-comment_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/icon-all_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/100.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/101.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/102.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/103.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/104.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/105.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/106.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/107.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/108.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/109.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/110.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/111.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/112.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/113.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/114.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/115.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/116.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/117.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/118.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/119.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/120.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/121.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/122.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/123.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/124.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/125.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/126.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/127.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/128.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/129.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/130.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/131.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/132.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/133.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/134.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/72.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/73.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/74.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/75.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/76.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/77.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/78.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/79.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/80.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/81.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/82.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/83.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/84.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/85.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/86.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/87.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/88.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/89.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/90.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/91.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/92.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/93.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/94.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/95.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/96.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/97.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/98.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/99.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/static.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/go-up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/swfupload.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/themes/default/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.xap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_s-divider.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/QQ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/bg_noise.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/dreamland.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/icon_m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/kj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/q.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/images/wx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/auicon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/grwx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/searchbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/weipayimg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/wx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_spring_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_core_2_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_ldap_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/MD5Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/comment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery-1.12.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery.flexText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/hf.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/pl.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/map/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/ok.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-apollo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-clj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-erlang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-go.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-hs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lisp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-llvm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-matlab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-mumps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-pascal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-proto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-rd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-scala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vhdl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-wiki.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-xq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/run_prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/info.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/infopic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/m.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/share.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/time.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/ab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/comm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/hc-sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.easyfader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/piccontent.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/scrollReveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/share.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/log4j.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ceshi/新建文本文档.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/blogweb_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/blogweb_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/blogweb_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/blogweb_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font/barbarahand-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font/lg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/admin_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/dedecms.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/java.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/page/shareicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/t2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/icon-ext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/font/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/about.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/gloable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/index_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/master.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/nprogress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/diary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/jquery插件库.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagecomment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagediary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagemessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/blogbenoitboucart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/nprogress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/APlayer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/article.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/gloable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/layui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/layui.mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/code.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/laydate/default/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/layer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/flow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laydate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/layedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laypage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laytpl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/layui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/read.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/comment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/header-img-comment_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/icon-all_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery-1.12.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery.flexText.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/hf.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/respond.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/100.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/101.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/102.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/103.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/104.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/105.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/106.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/107.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/108.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/109.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/110.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/111.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/112.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/113.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/114.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/115.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/116.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/117.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/118.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/119.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/120.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/121.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/122.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/123.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/124.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/125.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/126.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/127.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/128.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/129.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/130.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/131.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/132.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/133.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/134.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/ok.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/themes/default/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-apollo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-clj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-dart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-erlang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-go.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-hs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lisp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-llvm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-matlab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-mumps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-n.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-pascal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-proto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-r.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-rd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-scala.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-sql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tcl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vhdl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-wiki.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-xq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-yaml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/run_prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.xap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_s-divider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/QQ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/bg_noise.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/dreamland.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/icon_m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/kj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/q.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/wx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/about.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/info.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/infopic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/m.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/share.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/time.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/auicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/grwx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/searchbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/weipayimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/wx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/ab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/comm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/hc-sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.easyfader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/piccontent.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/scrollReveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/share.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/time.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.iml" afterPath="$PROJECT_DIR$/blog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/blogweb.iml" afterPath="$PROJECT_DIR$/blogweb/blogweb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/pom.xml" afterPath="$PROJECT_DIR$/blogweb/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -510,95 +557,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java">
+      <file leaf-file-name="blogweb.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/blogweb.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="143" column="32" lean-forward="false" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="32" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="1464">
+              <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml">
+      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="59" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+            <state relative-caret-position="-405">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java">
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java">
+      <file leaf-file-name="PageHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="5805">
+              <caret line="230" column="24" lean-forward="false" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -607,8 +620,38 @@
       <file leaf-file-name="CodeCaptchaServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="243">
               <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MD5Util.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/MD5Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -634,10 +677,19 @@
       <find>checkCode</find>
       <find>checkPhone</find>
       <find>findByPhone</find>
+      <find>Register</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -795,7 +847,7 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
@@ -808,49 +860,21 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -860,11 +884,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -886,11 +928,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -912,11 +954,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -942,11 +984,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -961,48 +1003,14 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mapping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="BLOG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1019,188 +1027,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="li" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1215,15 +1041,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\webapp" />
       <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\resources\mapping" />
       <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\java\wei\li\common" />
       <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\java\wei\li\controller" />
       <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\webapp" />
-      <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\webapp\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1893,6 +1719,9 @@
       <workItem from="1556015151023" duration="7906000" />
       <workItem from="1556066537283" duration="2907000" />
       <workItem from="1556069567037" duration="1019000" />
+      <workItem from="1609172330346" duration="1448000" />
+      <workItem from="1609173871521" duration="1879000" />
+      <workItem from="1609177598339" duration="421000" />
     </task>
     <servers />
   </component>
@@ -1926,7 +1755,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49039000" />
+    <option name="totallyTimeSpent" value="52787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1938,8 +1767,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1955,7 +1783,7 @@
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8409836" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1963,12 +1791,14 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7852459" sideWeight="0.8774584" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7852459" sideWeight="0.8774584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29198185" sideWeight="0.4885246" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.4885246" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26626325" sideWeight="0.50855744" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37594554" sideWeight="0.5114754" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1977,7 +1807,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06959153" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2035,58 +1864,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/d.xml" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/log4j.xml" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Comment.java" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/UserInfo.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4085">
-          <caret line="230" column="24" lean-forward="false" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/CommentMapper.xml" />
     <entry file="uml://MAVEN/liweixyz:blog-web:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -2561,13 +2342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/blogweb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestTransaction.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE-sources.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2576,26 +2350,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserContentService.java" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2608,13 +2367,6 @@
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/LoginLogMapper.java" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/CommentMapper.java" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserInfoMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2626,15 +2378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2653,111 +2396,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="37" lean-forward="false" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/MD5Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="972">
           <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="297">
           <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/user.xml" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="54">
           <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/target/classes/wei/li/controller/RegisterController.class" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="-2736">
           <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5805">
+          <caret line="230" column="24" lean-forward="false" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="143" column="32" lean-forward="false" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="32" />
+        <state relative-caret-position="189">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/blogweb.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
