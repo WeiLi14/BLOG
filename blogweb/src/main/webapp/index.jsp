@@ -1,11 +1,15 @@
+<%@ page contentType="text/html;charset=UTF-8"%> <%--设置文档类型  防止页面中文乱码--%>
+<%--<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>--%>
+<c:set var="ctx" value="${pageContext.request.contextPath }"/>
 <!DOCTYPE html>
-<html lang="zh-Hans-CN">
+<html >
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width" />
-    <title>ZQ个人博客</title>
+    <title>李威个人博客</title>
 	<meta name="keywords" content="个人博客，个人网站，个人博客模板，好看的个人博客">
 	<meta name="description" content="个人博客搭建，个人博客免费建站，个人博客网站html源码，个人博客网站制作模板，源码下载，织梦，前端，java，PHP模板源码分享">
     <link href="layui/css/layui.css" rel="stylesheet" type="text/css">
@@ -24,6 +28,7 @@
             <li><a href="#">首页</a></li>
             <li><a href="article.html">博客</a></li>
             <li><a href="message.html">留言</a></li>
+            <li><a href="login.jsp">登陆/注册</a></li>
         </ul>
         <div class="logo"><a>Mr.liu</a></div>
     </div>

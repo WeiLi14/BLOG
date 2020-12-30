@@ -2,532 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e2c077-aef8-4d2a-9e2a-d9134ad44fa6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font/barbarahand-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font/lg.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/admin_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/dedecms.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/java.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/page/shareicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/t2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/web.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/icon-ext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/loading-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/font/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/images/face/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/gloable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/index_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/master.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/message.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/nprogress.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/diary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/jquery插件库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagecomment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagediary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/pagemessage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/blogbenoitboucart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/nprogress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/APlayer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/article.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/yss/gloable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/layui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/layui.mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/code.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/laydate/default/laydate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/css/modules/layer/default/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laydate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/layedit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laypage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/laytpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/lay/modules/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/layui/layui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/message.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/read.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css.bak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/404/texgyreschola-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/comment.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/header-img-comment_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/images/icon-all_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery-1.12.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/js/jquery.flexText.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/hf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/reply/json/pl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.lite.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/css/zui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/fonts/zenicon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.lite.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/js/zui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/array/zui.array.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/board/zui.board.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chart/zui.chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosen/chosen.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/clipboard/clipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/hotkey/hotkey.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ieonly/respond.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/imgready/imgready.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/10.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/100.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/101.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/102.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/103.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/104.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/105.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/106.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/107.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/108.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/109.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/11.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/110.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/111.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/112.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/113.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/114.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/115.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/116.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/117.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/118.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/119.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/12.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/120.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/121.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/122.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/123.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/124.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/125.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/126.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/127.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/128.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/129.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/13.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/130.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/131.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/132.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/133.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/134.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/14.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/15.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/17.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/18.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/19.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/20.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/21.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/22.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/23.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/24.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/25.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/26.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/27.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/28.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/29.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/30.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/31.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/33.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/34.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/35.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/36.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/37.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/38.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/39.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/40.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/41.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/42.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/map/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/ok.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/kindeditor/themes/default/default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-apollo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-clj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-dart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-go.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-hs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lisp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-llvm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-lua.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-matlab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-ml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-mumps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-n.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-pascal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-proto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-r.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-rd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-scala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-sql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-tex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-vhdl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-wiki.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-xq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/lang-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/prettify/run_prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/ueditor/ueditor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/Moxie.xap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_s-divider.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/404_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/QQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/bg_noise.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/dreamland.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/icon_m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/kj.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/q.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/images/wx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/about.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/info.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/infopic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/m.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/share.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/css/time.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/auicon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/grwx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/mb5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/searchbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/weipayimg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/images/wx.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/ab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/comm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/hc-sticky.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.easyfader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/page2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/piccontent.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/scrollReveal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/share.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/time.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login-arm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login-arm@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/ph-owl-arm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/ph-owl-arm@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/ph-owl-arml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/ph-owl-arml@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/signup-arm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/image/signup-arm@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/CommentMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/LoginLogMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/ResourceMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleResourceMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleUserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UpvoteMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserContentMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserInfoMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/LoginLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Resource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/RoleResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/RoleUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Upvote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/UserContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/UserInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/CommentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/LoginLogMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/ResourceMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/RoleMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/RoleResourceMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/RoleUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/UpvoteMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserInfoMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/css/jq22.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/jquery插件库.url" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.iml" afterPath="$PROJECT_DIR$/blog.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java" afterPath="$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -557,8 +78,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="blogweb.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/blogweb.iml">
+      <file leaf-file-name="TestTransaction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/CommentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/ResourceMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInfoMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserInfoMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Comment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/CommentMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -567,92 +170,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1464">
-              <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/blog.css">
+      <file leaf-file-name="LoginLogMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/LoginLogMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-405">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/article.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5805">
-              <caret line="230" column="24" lean-forward="false" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodeCaptchaServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MD5Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/MD5Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
-              <folding />
+              <folding>
+                <marker date="1609347291683" expanded="true" signature="699:803" ph="select from login_log" />
+                <marker date="1609347291683" expanded="true" signature="887:945" ph="delete from " />
+                <marker date="1609347291683" expanded="true" signature="1025:1205" ph="insert into login_log... " />
+                <marker date="1609347291683" expanded="true" signature="2105:2447" ph="update login... " />
+                <marker date="1609347291683" expanded="true" signature="2539:2719" ph="update login... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -705,7 +234,6 @@
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/PageHelper.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserContentService.java" />
-        <option value="$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/test/java/TestTransaction.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/blogweb/src/main/resources/log4j.properties" />
@@ -721,10 +249,8 @@
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/resources/mapping/user.xml" />
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java" />
-        <option value="$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp" />
-        <option value="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/blogweb/pom.xml" />
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/common/CodeCaptchaServlet.java" />
         <option value="$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml" />
@@ -732,6 +258,11 @@
         <option value="$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml" />
         <option value="$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/blogweb/target/classes/wei/li/controller/RegisterController.class" />
+        <option value="$PROJECT_DIR$/blogweb/src/main/webapp/css/jq22.css" />
+        <option value="$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java" />
       </list>
     </option>
   </component>
@@ -805,10 +336,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -821,6 +352,9 @@
             <id>CodeSpring CoreSpring</id>
           </State>
           <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
             <id>Spring</id>
           </State>
           <State>
@@ -829,7 +363,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>SpringJavaAutowiringInspection</id>
+            <id>LossyEncoding</id>
           </State>
         </selected-state>
       </profile-state>
@@ -853,7 +387,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -947,8 +480,30 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -974,33 +529,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BLOG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BLOG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="mapping" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1029,27 +562,212 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BLOG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="li" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\resources\mapping" />
+      <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\java\wei\li\entity" />
+      <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\java\wei\li\dao" />
       <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\webapp" />
-      <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\resources\mapping" />
-      <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\java\wei\li\common" />
-      <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\java\wei\li\controller" />
-      <recent name="C:\Users\hp\IdeaProjects\blog\blogweb\src\main\webapp" />
+      <recent name="C:\Users\hp\Desktop\lw_blog\BLOG\blogweb\src\main\webapp\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1064,7 +782,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.blogtomcat">
+  <component name="RunManager" selected="JUnit.TestTransaction (1)">
     <configuration default="false" name="TestTransaction.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="blog" />
@@ -1687,8 +1405,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestTransaction.testSave (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestTransaction (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestTransaction (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestTransaction.testSave (1)" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.TestTransaction.testSave" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.TestTransaction" />
       </list>
@@ -1721,41 +1439,53 @@
       <workItem from="1556069567037" duration="1019000" />
       <workItem from="1609172330346" duration="1448000" />
       <workItem from="1609173871521" duration="1879000" />
-      <workItem from="1609177598339" duration="421000" />
+      <workItem from="1609177598339" duration="541000" />
+      <workItem from="1609343362512" duration="4044000" />
     </task>
+    <task id="LOCAL-00001" summary="最新代码">
+      <created>1609178119166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609178119166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTransaction - 2019.04.23 at 15h 24m 57s.xml">
-      <configuration name="TestTransaction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTransaction - 2019.04.23 at 15h 26m 27s.xml">
-      <configuration name="TestTransaction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTransaction_(1) - 2019.04.23 at 19h 18m 51s.xml">
+    <history-entry file="TestTransaction_(1) - 2020.12.31 at 00h 45m 43s.xml">
       <configuration name="TestTransaction (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTransaction_testSave - 2019.04.23 at 15h 25m 28s.xml">
-      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
+    <history-entry file="TestTransaction_(1) - 2020.12.31 at 00h 56m 51s.xml">
+      <configuration name="TestTransaction (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTransaction_testSave - 2019.04.23 at 15h 29m 50s.xml">
-      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTransaction_testSave - 2019.04.23 at 15h 39m 19s.xml">
-      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTransaction_testSave - 2019.04.23 at 15h 42m 37s.xml">
-      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTransaction_testSave_(1) - 2019.04.23 at 19h 19m 13s.xml">
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 23m 27s.xml">
       <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTransaction_testSave_(1) - 2019.04.23 at 19h 20m 59s.xml">
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 34m 28s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 37m 16s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 38m 20s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 41m 12s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 42m 57s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 43m 53s.xml">
+      <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave_(1) - 2020.12.31 at 00h 45m 20s.xml">
       <configuration name="TestTransaction.testSave (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52787000" />
+    <option name="totallyTimeSpent" value="56951000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1767,7 +1497,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1552" height="840" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1783,7 +1513,7 @@
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8409836" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7266289" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1791,14 +1521,13 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7852459" sideWeight="0.8774584" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78470254" sideWeight="0.8774584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.4885246" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19504021" sideWeight="0.4885246" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26626325" sideWeight="0.50855744" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37594554" sideWeight="0.5114754" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1807,6 +1536,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06959153" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1853,6 +1583,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最新代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="最新代码" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
@@ -1864,625 +1598,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/log4j.xml" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Comment.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/UserInfo.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/CommentMapper.xml" />
-    <entry file="uml://MAVEN/liweixyz:blog-web:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>liweixyz:blog-web:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="572.3500230829779">liweixyz:blog-web:1.0-SNAPSHOT</node>
-            <node x="224.5" y="0.0">jstl:jstl:jar:1.2</node>
-            <node x="202.5" y="71.0">javax:javaee-api:jar:7.0</node>
-            <node x="448.5" y="71.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0</node>
-            <node x="672.5" y="71.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1</node>
-            <node x="1266.0" y="843.31036085127">org.springframework:spring-core:jar:4.2.5.RELEASE</node>
-            <node x="1448.0" y="1001.7347656131749">org.springframework:spring-core:jar:4.2.5.RELEASE/commons-logging:commons-logging:jar:1.2</node>
-            <node x="443.5" y="1093.725023082978">org.springframework:spring-web:jar:4.2.5.RELEASE</node>
-            <node x="1075.0" y="831.3142300880941">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE</node>
-            <node x="875.0" y="335.89756342142744">org.springframework:spring-oxm:jar:4.2.5.RELEASE</node>
-            <node x="450.5" y="708.3142300880941">org.springframework:spring-tx:jar:4.2.5.RELEASE</node>
-            <node x="199.0" y="611.3142300880941">org.springframework:spring-jdbc:jar:4.2.5.RELEASE</node>
-            <node x="188.0" y="1043.3878205128208">org.springframework:spring-webmvc:jar:4.2.5.RELEASE</node>
-            <node x="856.0" y="944.7250230829779">org.springframework:spring-webmvc:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE</node>
-            <node x="658.0" y="890.6225634214275">org.springframework:spring-context:jar:4.2.5.RELEASE</node>
-            <node x="409.0" y="779.3142300880941">org.springframework:spring-context-support:jar:4.2.5.RELEASE</node>
-            <node x="876.0" y="1015.7250230829779">org.springframework:spring-aop:jar:4.2.5.RELEASE</node>
-            <node x="1080.5" y="1041.725023082978">org.springframework:spring-aop:jar:4.2.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
-            <node x="1082.0" y="1164.475023082978">org.springframework:spring-test:jar:4.2.5.RELEASE</node>
-            <node x="210.0" y="300.1764095752736">org.mybatis:mybatis:jar:3.2.8</node>
-            <node x="189.0" y="361.89756342142744">org.mybatis:mybatis-spring:jar:1.2.2</node>
-            <node x="170.0" y="682.3142300880941">mysql:mysql-connector-java:jar:5.1.29</node>
-            <node x="186.5" y="142.0">commons-dbcp:commons-dbcp:jar:1.2.2</node>
-            <node x="432.0" y="142.0">commons-dbcp:commons-dbcp:jar:1.2.2/commons-pool:commons-pool:jar:1.3</node>
-            <node x="462.0" y="281.875">log4j:log4j:jar:1.2.17</node>
-            <node x="453.5" y="194.0">org.slf4j:slf4j-api:jar:1.7.18</node>
-            <node x="197.0" y="229.17640957527374">org.slf4j:slf4j-log4j12:jar:1.7.18</node>
-            <node x="201.5" y="844.8666897496446">org.springframework:spring-jms:jar:4.2.5.RELEASE</node>
-            <node x="424.0" y="856.5392300880942">org.springframework:spring-jms:jar:4.2.5.RELEASE/org.springframework:spring-messaging:jar:4.2.5.RELEASE</node>
-            <node x="194.0" y="432.89756342142744">org.apache.xbean:xbean-spring:jar:4.0</node>
-            <node x="423.0" y="432.89756342142744">org.apache.xbean:xbean-spring:jar:4.0/commons-logging:commons-logging:jar:1.0.3</node>
-            <node x="439.0" y="503.89756342142744">com.fasterxml.jackson.core:jackson-core:jar:2.1.0</node>
-            <node x="182.0" y="539.3975634214274">com.fasterxml.jackson.core:jackson-databind:jar:2.1.0</node>
-            <node x="418.0" y="574.8975634214274">com.fasterxml.jackson.core:jackson-annotations:jar:2.1.0</node>
-            <node x="175.5" y="1203.475023082978">commons-beanutils:commons-beanutils:jar:1.9.3</node>
-            <node x="415.0" y="1216.475023082978">commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="209.5" y="1287.475023082978">tk.mybatis:mapper:jar:3.1.2</node>
-            <node x="432.0" y="1287.475023082978">tk.mybatis:mapper:jar:3.1.2/javax.persistence:persistence-api:jar:1.0</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="48.0" y="7.75" />
-              <point x="329.0" y="868.1166897496446" />
-              <point x="409.0" y="898.0392300880942" />
-              <point x="578.0" y="898.0392300880942" />
-              <point x="-59.0" y="-2.5833333333333712" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:4.2.5.RELEASE" target="org.springframework:spring-aop:jar:4.2.5.RELEASE">
-              <point x="59.0" y="11.625" />
-              <point x="856.0" y="1019.6000230829779" />
-              <point x="-49.5" y="-11.625" />
-            </edge>
-            <edge source="org.springframework:spring-aop:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="49.5" y="-10.333333333333371" />
-              <point x="995.0" y="1020.8916897496445" />
-              <point x="-55.5" y="10.850000000000023" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE/org.springframework:spring-messaging:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="69.5" y="-10.333333333333371" />
-              <point x="578.0" y="861.7058967547607" />
-              <point x="658.0" y="849.6916897496445" />
-              <point x="995.0" y="849.6916897496445" />
-              <point x="-55.5" y="1.5499999999999545" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:4.2.5.RELEASE" target="org.springframework:spring-tx:jar:4.2.5.RELEASE">
-              <point x="50.5" y="10.333333333333371" />
-              <point x="329.0" y="637.1475634214275" />
-              <point x="409.0" y="713.4808967547608" />
-              <point x="-43.0" y="-10.333333333333371" />
-            </edge>
-            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.18" target="org.slf4j:slf4j-api:jar:1.7.18">
-              <point x="52.5" y="-7.75" />
-              <point x="329.0" y="236.92640957527374" />
-              <point x="409.0" y="217.25" />
-              <point x="-40.0" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="tk.mybatis:mapper:jar:3.1.2">
-              <point x="45.0" y="14.903846153846189" />
-              <point x="170.0" y="1302.975023082978" />
-              <point x="-40.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="84.5" y="-0.0" />
-              <point x="995.0" y="794.8142300880941" />
-              <point x="-55.5" y="-4.649999999999977" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.2.5.RELEASE">
-              <point x="45.0" y="10.134615384615358" />
-              <point x="170.0" y="1116.975023082978" />
-              <point x="-50.0" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-core:jar:2.1.0">
-              <point x="45.0" y="-1.7884615384615472" />
-              <point x="170.0" y="510.27256342142744" />
-              <point x="-54.5" y="-7.75" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="50.5" y="-10.333333333333371" />
-              <point x="1186.0" y="616.4808967547608" />
-              <point x="-51.0" y="-9.96428571428578" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="69.5" y="-0.0" />
-              <point x="1186.0" y="960.2250230829779" />
-              <point x="-51.0" y="5.535714285714334" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-tx:jar:4.2.5.RELEASE">
-              <point x="48.0" y="-12.916666666666629" />
-              <point x="329.0" y="847.450023082978" />
-              <point x="409.0" y="734.1475634214275" />
-              <point x="-43.0" y="10.333333333333371" />
-            </edge>
-            <edge source="commons-beanutils:commons-beanutils:jar:1.9.3" target="org.springframework:spring-core:jar:4.2.5.RELEASE/commons-logging:commons-logging:jar:1.2">
-              <point x="74.0" y="-7.75" />
-              <point x="409.0" y="1205.975023082978" />
-              <point x="1368.0" y="1205.975023082978" />
-              <point x="-70.5" y="7.75" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="61.5" y="-12.400000000000091" />
-              <point x="329.0" y="1046.4878205128207" />
-              <point x="409.0" y="986.1145275179367" />
-              <point x="578.0" y="986.1145275179367" />
-              <point x="-59.0" y="7.75" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:4.2.5.RELEASE" target="org.springframework:spring-aop:jar:4.2.5.RELEASE">
-              <point x="50.0" y="-3.875" />
-              <point x="776.0" y="1105.350023082978" />
-              <point x="856.0" y="1035.100023082978" />
-              <point x="-49.5" y="3.875" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="84.5" y="-10.333333333333371" />
-              <point x="658.0" y="774.8248743680563" />
-              <point x="1186.0" y="774.8248743680563" />
-              <point x="-51.0" y="-5.535714285714334" />
-            </edge>
-            <edge source="org.springframework:spring-oxm:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="50.5" y="-7.75" />
-              <point x="1186.0" y="343.64756342142744" />
-              <point x="-51.0" y="-12.178571428571445" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="45.0" y="7.75" />
-              <point x="170.0" y="972.5145275179368" />
-              <point x="578.0" y="972.5145275179368" />
-              <point x="-59.0" y="2.5833333333333712" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="59.0" y="-3.875" />
-              <point x="1186.0" y="902.2475634214275" />
-              <point x="-51.0" y="3.321428571428555" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="43.0" y="7.75" />
-              <point x="995.0" y="729.3142300880941" />
-              <point x="-55.5" y="-7.75" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="55.5" y="-0.0" />
-              <point x="-51.0" y="-1.1071428571428896" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE/org.springframework:spring-messaging:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="69.5" y="-0.0" />
-              <point x="1186.0" y="872.8142300880941" />
-              <point x="-51.0" y="1.1071428571428896" />
-            </edge>
-            <edge source="org.springframework:spring-oxm:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="50.5" y="7.75" />
-              <point x="995.0" y="359.14756342142744" />
-              <point x="-55.5" y="-13.950000000000045" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="43.0" y="-7.75" />
-              <point x="1186.0" y="718.3142300880941" />
-              <point x="-51.0" y="-7.75" />
-            </edge>
-            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.1.0" target="com.fasterxml.jackson.core:jackson-core:jar:2.1.0">
-              <point x="67.5" y="-7.75" />
-              <point x="409.0" y="527.1475634214274" />
-              <point x="-54.5" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.2.5.RELEASE">
-              <point x="45.0" y="12.51923076923083" />
-              <point x="170.0" y="1179.975023082978" />
-              <point x="-48.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-aop:jar:4.2.5.RELEASE">
-              <point x="48.0" y="12.916666666666629" />
-              <point x="329.0" y="873.2833564163112" />
-              <point x="409.0" y="960.4728608512701" />
-              <point x="578.0" y="960.4728608512701" />
-              <point x="658.0" y="1027.350023082978" />
-              <point x="-49.5" y="-3.875" />
-            </edge>
-            <edge source="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1">
-              <point x="45.0" y="-0.0" />
-              <point x="-44.5" y="-0.0" />
-            </edge>
-            <edge source="org.apache.xbean:xbean-spring:jar:4.0" target="org.apache.xbean:xbean-spring:jar:4.0/commons-logging:commons-logging:jar:1.0.3">
-              <point x="55.5" y="-0.0" />
-              <point x="-70.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:4.2.5.RELEASE" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="50.0" y="-11.625" />
-              <point x="578.0" y="1097.600023082978" />
-              <point x="-59.0" y="12.916666666666629" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:4.2.5.RELEASE" target="org.springframework:spring-webmvc:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE">
-              <point x="59.0" y="3.875" />
-              <point x="-69.5" y="-7.75" />
-            </edge>
-            <edge source="commons-beanutils:commons-beanutils:jar:1.9.3" target="commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2">
-              <point x="74.0" y="7.75" />
-              <point x="-78.5" y="-0.0" />
-            </edge>
-            <edge source="tk.mybatis:mapper:jar:3.1.2" target="tk.mybatis:mapper:jar:3.1.2/javax.persistence:persistence-api:jar:1.0">
-              <point x="40.0" y="-0.0" />
-              <point x="-61.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="50.0" y="3.875" />
-              <point x="578.0" y="1113.100023082978" />
-              <point x="658.0" y="1146.225023082978" />
-              <point x="995.0" y="1146.225023082978" />
-              <point x="-55.5" y="13.950000000000045" />
-            </edge>
-            <edge source="org.apache.xbean:xbean-spring:jar:4.0/commons-logging:commons-logging:jar:1.0.3" target="org.springframework:spring-core:jar:4.2.5.RELEASE/commons-logging:commons-logging:jar:1.2">
-              <point x="0.0" y="0.0" />
-              <point x="493.5" y="1017.2347656131749" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE/org.springframework:spring-messaging:jar:4.2.5.RELEASE" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="69.5" y="10.333333333333371" />
-              <point x="578.0" y="882.3725634214275" />
-              <point x="-59.0" y="-7.75" />
-            </edge>
-            <edge source="org.springframework:spring-aop:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="49.5" y="-0.0" />
-              <point x="1186.0" y="1031.225023082978" />
-              <point x="-51.0" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.2.5.RELEASE">
-              <point x="45.0" y="11.326923076923094" />
-              <point x="170.0" y="1135.225023082978" />
-              <point x="776.0" y="1135.225023082978" />
-              <point x="856.0" y="1042.850023082978" />
-              <point x="-49.5" y="11.625" />
-            </edge>
-            <edge source="org.springframework:spring-core:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE/commons-logging:commons-logging:jar:1.2">
-              <point x="51.0" y="-0.0" />
-              <point x="-70.5" y="-7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.18">
-              <point x="45.0" y="-10.134615384615358" />
-              <point x="170.0" y="200.375" />
-              <point x="-40.0" y="-7.75" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="48.0" y="-2.5833333333333712" />
-              <point x="329.0" y="857.7833564163112" />
-              <point x="409.0" y="845.2642300880941" />
-              <point x="-55.5" y="-1.5499999999999545" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:4.2.5.RELEASE">
-              <point x="45.0" y="4.173076923076906" />
-              <point x="170.0" y="723.8142300880941" />
-              <point x="-43.0" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-jms:jar:4.2.5.RELEASE">
-              <point x="45.0" y="6.557692307692264" />
-              <point x="170.0" y="860.3666897496446" />
-              <point x="-48.0" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.apache.xbean:xbean-spring:jar:4.0">
-              <point x="45.0" y="-2.9807692307692832" />
-              <point x="170.0" y="448.39756342142744" />
-              <point x="-55.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.29">
-              <point x="45.0" y="2.9807692307692832" />
-              <point x="-79.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:4.2.5.RELEASE" target="org.springframework:spring-context:jar:4.2.5.RELEASE">
-              <point x="84.5" y="10.333333333333371" />
-              <point x="-59.0" y="-12.916666666666629" />
-            </edge>
-            <edge source="javax:javaee-api:jar:7.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0">
-              <point x="47.0" y="-0.0" />
-              <point x="-45.0" y="-0.0" />
-            </edge>
-            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.1.0" target="com.fasterxml.jackson.core:jackson-annotations:jar:2.1.0">
-              <point x="67.5" y="7.75" />
-              <point x="-75.5" y="-7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.8">
-              <point x="45.0" y="-7.75" />
-              <point x="170.0" y="315.6764095752736" />
-              <point x="-39.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-jms:jar:4.2.5.RELEASE/org.springframework:spring-messaging:jar:4.2.5.RELEASE">
-              <point x="48.0" y="2.5833333333333712" />
-              <point x="329.0" y="862.950023082978" />
-              <point x="409.0" y="872.0392300880942" />
-              <point x="-69.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.2.5.RELEASE">
-              <point x="45.0" y="8.942307692307736" />
-              <point x="170.0" y="1058.8878205128208" />
-              <point x="-61.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.slf4j:slf4j-log4j12:jar:1.7.18">
-              <point x="45.0" y="-8.942307692307736" />
-              <point x="170.0" y="244.67640957527374" />
-              <point x="-52.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="commons-beanutils:commons-beanutils:jar:1.9.3">
-              <point x="45.0" y="13.711538461538453" />
-              <point x="-74.0" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
-              <point x="45.0" y="-14.903846153846189" />
-              <point x="170.0" y="15.5" />
-              <point x="-25.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE">
-              <point x="61.5" y="12.400000000000091" />
-              <point x="329.0" y="1071.2878205128209" />
-              <point x="409.0" y="1101.475023082978" />
-              <point x="-50.0" y="-7.75" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="59.0" y="-11.625" />
-              <point x="995.0" y="893.6208564163112" />
-              <point x="-55.5" y="4.649999999999977" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
-              <point x="45.0" y="-6.557692307692264" />
-              <point x="170.0" y="341.6764095752736" />
-              <point x="329.0" y="341.6764095752736" />
-              <point x="409.0" y="305.125" />
-              <point x="-31.5" y="7.75" />
-            </edge>
-            <edge source="org.springframework:spring-test:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="48.5" y="-0.0" />
-              <point x="-51.0" y="14.39285714285711" />
-            </edge>
-            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.18" target="log4j:log4j:jar:1.2.17">
-              <point x="52.5" y="7.75" />
-              <point x="329.0" y="252.42640957527374" />
-              <point x="409.0" y="289.625" />
-              <point x="-31.5" y="-7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
-              <point x="45.0" y="-4.173076923076906" />
-              <point x="170.0" y="377.39756342142744" />
-              <point x="-60.5" y="-0.0" />
-            </edge>
-            <edge source="commons-dbcp:commons-dbcp:jar:1.2.2" target="commons-dbcp:commons-dbcp:jar:1.2.2/commons-pool:commons-pool:jar:1.3">
-              <point x="63.0" y="-0.0" />
-              <point x="-61.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE" target="org.springframework:spring-webmvc:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE">
-              <point x="61.5" y="-0.0" />
-              <point x="578.0" y="1058.8878205128208" />
-              <point x="658.0" y="967.9750230829779" />
-              <point x="-69.5" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.1.0">
-              <point x="45.0" y="-0.5961538461538112" />
-              <point x="-67.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.2.5.RELEASE">
-              <point x="45.0" y="5.365384615384642" />
-              <point x="170.0" y="794.8142300880941" />
-              <point x="-84.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="61.5" y="-6.2000000000000455" />
-              <point x="329.0" y="1052.6878205128205" />
-              <point x="409.0" y="992.3145275179368" />
-              <point x="578.0" y="992.3145275179368" />
-              <point x="658.0" y="934.2250230829779" />
-              <point x="995.0" y="934.2250230829779" />
-              <point x="-55.5" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="45.0" y="-11.326923076923094" />
-              <point x="170.0" y="183.5" />
-              <point x="1186.0" y="183.5" />
-              <point x="-51.0" y="-14.39285714285711" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.2.5.RELEASE">
-              <point x="45.0" y="1.7884615384615472" />
-              <point x="170.0" y="626.8142300880941" />
-              <point x="-50.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-jms:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="48.0" y="-7.75" />
-              <point x="329.0" y="852.6166897496446" />
-              <point x="409.0" y="820.8142300880941" />
-              <point x="1186.0" y="820.8142300880941" />
-              <point x="-51.0" y="-3.321428571428555" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="org.springframework:spring-oxm:jar:4.2.5.RELEASE">
-              <point x="45.0" y="-5.365384615384642" />
-              <point x="170.0" y="351.39756342142744" />
-              <point x="-50.5" y="-0.0" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="javax:javaee-api:jar:7.0">
-              <point x="45.0" y="-13.711538461538453" />
-              <point x="170.0" y="86.5" />
-              <point x="-47.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-aop:jar:4.2.5.RELEASE" target="org.springframework:spring-aop:jar:4.2.5.RELEASE/aopalliance:aopalliance:jar:1.0">
-              <point x="49.5" y="10.333333333333258" />
-              <point x="995.0" y="1041.5583564163112" />
-              <point x="-50.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="50.0" y="11.625" />
-              <point x="578.0" y="1120.850023082978" />
-              <point x="658.0" y="1153.975023082978" />
-              <point x="1186.0" y="1153.975023082978" />
-              <point x="-51.0" y="12.178571428571445" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:4.2.5.RELEASE" target="org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE">
-              <point x="50.5" y="-0.0" />
-              <point x="995.0" y="626.8142300880941" />
-              <point x="-55.5" y="-10.850000000000023" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-annotations:jar:2.1.0">
-              <point x="45.0" y="0.5961538461538112" />
-              <point x="170.0" y="599.5225634214274" />
-              <point x="-75.5" y="7.75" />
-            </edge>
-            <edge source="liweixyz:blog-web:1.0-SNAPSHOT" target="commons-dbcp:commons-dbcp:jar:1.2.2">
-              <point x="45.0" y="-12.519230769230717" />
-              <point x="170.0" y="157.5" />
-              <point x="-63.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:4.2.5.RELEASE" target="org.springframework:spring-core:jar:4.2.5.RELEASE">
-              <point x="61.5" y="6.2000000000000455" />
-              <point x="329.0" y="1065.0878205128206" />
-              <point x="409.0" y="1083.225023082978" />
-              <point x="1186.0" y="1083.225023082978" />
-              <point x="-51.0" y="9.964285714285666" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.3309185959671397" x="133.0" y="513.0" />
-          <SelectedNodes>
-            <node>org.apache.xbean:xbean-spring:jar:4.0/commons-logging:commons-logging:jar:1.0.3</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/AbstractJUnit4SpringContextTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestTransaction.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE-sources.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserContentService.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserInfoMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserContentMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleUserMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleResourceMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/RoleMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/ResourceMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/LoginLogMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/CommentMapper.java" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserInfoMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/404/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/yangqq/js/ab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/user.xml" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/target/classes/wei/li/controller/RegisterController.class" />
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2736">
-          <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/dreamland.css" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
@@ -2515,22 +1632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/register.jsp" />
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
@@ -2549,7 +1651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1464">
+        <state relative-caret-position="2241">
           <caret line="83" column="21" lean-forward="false" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
           <folding />
         </state>
@@ -2573,17 +1675,288 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="297">
           <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/a1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/a4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/web.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/js/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/fonts/fontawesome-webfont.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/js/plugins/blogbenoitboucart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/css/jq22.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/java.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login-arm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login-arm@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/ph-owl-arm@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/signup-arm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/signup-arm@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/image/owl-login.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/jquery插件库.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
+        <state relative-caret-position="189">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/test/java/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/CommentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/ResourceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/dao/UserInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/java/wei/li/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/CommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogweb/src/main/resources/mapping/LoginLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1609347291683" expanded="true" signature="699:803" ph="select from login_log" />
+            <marker date="1609347291683" expanded="true" signature="887:945" ph="delete from " />
+            <marker date="1609347291683" expanded="true" signature="1025:1205" ph="insert into login_log... " />
+            <marker date="1609347291683" expanded="true" signature="2105:2447" ph="update login... " />
+            <marker date="1609347291683" expanded="true" signature="2539:2719" ph="update login... " />
+          </folding>
         </state>
       </provider>
     </entry>
